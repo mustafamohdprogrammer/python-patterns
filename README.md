@@ -17,7 +17,7 @@ This repository contains a comprehensive collection of Python code examples for 
 ## 📁 How to Use
 
 1. **Clone this repository**
-git clone https://github.com/yourusername/pattern-printing-python.git
+git clone https://github.com/yourusername/python-patterns.git
 cd pattern-printing-python
 
 
